@@ -1,0 +1,6 @@
+101,Carolina Marin,5000,75,100,carolinamarin@gmail.com
+102,Yash Khankhoje,4500,75,90,yashkhankhoje@gmail.com
+103,Bhavya Rihi,5600,95,125,bhavyarishi@gmail.com 
+401,nammitapathaniya,7800,100,150,namitapathaniya@yahoo.co.in
+101,Revati Devasthale,5000,75,100,revatidevasthale@gmail.com
+102,Sanashree Dhumdhere,4500,75,90,sanashreedhumdhere@gmail.com
